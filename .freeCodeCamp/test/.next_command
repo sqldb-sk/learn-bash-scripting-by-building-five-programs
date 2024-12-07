@@ -78,3 +78,5 @@ help if
 help
 help [[ expression ]]
 help test
+__vsc_prompt_cmd_original
+./countdown.sh 5
