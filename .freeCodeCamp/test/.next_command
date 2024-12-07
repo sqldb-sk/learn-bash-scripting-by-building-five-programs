@@ -33,3 +33,4 @@ exho hello bash
 echo hello bash
 touch project/questionnaire.sh
 touch questionnaire.sh
+sh questionnaire.sh
