@@ -81,3 +81,14 @@ help test
 __vsc_prompt_cmd_original
 ./countdown.sh 5
 [[ 4 -le 5 ]]
+echo $
+echo $[[ 4 -le 5 ]]
+echo $ [[ 4 -le 5 ]]
+help if
+[[ 4 -le 5 ]]
+$
+echo $
+echo $5
+echo $?
+[[ 4 -le 5 ]]
+echo $?
