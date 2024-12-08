@@ -302,3 +302,12 @@ git switch https://github.com/sqldb-sk/learn-bash-scripting-by-building-five-pro
 git switch origin
 git pull origin main
 git add .
+git commit -m "completed 5 bash programs"
+git push
+git remote add origin https://github.com/sqldb-sk/learn-bash-scripting-by-building-five-programs
+git switch https://github.com/sqldb-sk/learn-bash-scripting-by-building-five-programs
+git remote -v
+git switch origin
+git switch main
+git remote add bash-scripting https://github.com/sqldb-sk/learn-bash-scripting-by-building-five-programs.git
+git remote -v
