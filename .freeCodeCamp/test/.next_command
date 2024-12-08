@@ -164,3 +164,4 @@ chmod -x bingo.sh
 chmod -x ./bingo.sh
 chmod -x+ ./bingo.sh
 chmod +x ./bingo.sh
+./bingo.sh
