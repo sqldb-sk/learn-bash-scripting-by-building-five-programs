@@ -227,3 +227,4 @@ help
 help util
 help until
 ./fortune.sh
+help [[ expression ]]
