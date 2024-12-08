@@ -6,7 +6,7 @@ if [[ $1 -gt 0 ]]
 then
     for (( i = $1; i > 0; i-- ))
     do
-         echo $i; 
+         echo $i 
          sleep 1
     done
 else
