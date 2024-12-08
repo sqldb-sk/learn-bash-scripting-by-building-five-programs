@@ -148,3 +148,4 @@ countdown.sh 1
 ./countdown.sh 1
 ./countdown.sh -1121
 help
+./countdown.sh 10
