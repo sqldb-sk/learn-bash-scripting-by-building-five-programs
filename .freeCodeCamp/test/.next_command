@@ -242,3 +242,8 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 ./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh is iVanaa my soma ulte?
+./fortune.sh
+./fortune.sh
