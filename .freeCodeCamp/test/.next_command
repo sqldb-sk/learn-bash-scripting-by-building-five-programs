@@ -180,3 +180,5 @@ echo $I
 help let
 (( I += 10 ))
 echo $I
+(( I-- ))
+$(( I + 4 ))
